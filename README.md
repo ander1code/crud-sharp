@@ -1,10 +1,14 @@
 # CrudSharp 2.0
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&color=blue)
+
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?logo=.net&logoColor=white&color=blue)
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&color=darkblue) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&color=blue) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&color=orange)
+
 ![Platform: Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-sharp?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/crud-sharp?color=blue&logo=files) ![License](https://img.shields.io/github/license/ander1code/crud-sharp?color=black&logo=open-source-initiative)
+
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-sharp?color=yellow&logo=github) 
 
 ## 1. Description
 **CrudSharp 2.0** is a versatile registration system developed in **C#**, featuring multi-database support. The system allows users to choose their preferred database during configuration, ensuring flexibility across different environments.
